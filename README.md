@@ -295,3 +295,11 @@ Run `python run_tests.py` from the `tests` directory.
  * https://bitbucket.org/bartj/led/src
  * http://www.daveakerman.com/?p=1440
  * https://github.com/stoggi/ledbadge
+
+## Add Coffee Mugs
+
+For example with
+
+```sh
+python3 led-badge-11x44.py -s1 -m5 ':gfx/coffee.png:Max:gfx/coffee2.png:' ':gfx/coffee2.png:Max:gfx/coffee.png:'
+```
